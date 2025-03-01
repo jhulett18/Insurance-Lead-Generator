@@ -1,0 +1,11 @@
+what are you trying to do?
+
+I need to display phone numbers without the program stopping
+
+
+
+Need to correct Logic of checking to see if XPATH's exist
+Add Waits to program
+
+
+https://stackoverflow.com/questions/39147245/selenium-in-python-how-use-a-if-else-code-if-an-element-is-not-present/39147358

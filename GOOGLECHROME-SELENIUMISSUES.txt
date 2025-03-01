@@ -1,0 +1,3 @@
+PROGRAM WONT OPEN GOOGLE CHROME WHEN RAN:
+
+SOLUTION #1: Start the CMD from the WINDOWS SEARCH BAR and point to the file to run
